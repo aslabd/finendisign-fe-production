@@ -16,7 +16,7 @@
     "immutable": "3.8.2",
     "jwt-decode": "^2.2.0",
     "lodash": "^4.17.11",
-    "node-sass": "^4.10.0",
+    "node-sass": "^7.0.0",
     "prop-types": "^15.6.2",
     "query-string": "^6.2.0",
     "react": "^16.6.3",
